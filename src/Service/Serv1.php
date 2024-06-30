@@ -13,5 +13,6 @@ class Serv1
 		$dev2 = 2;
 		return "<br/>il mio nome: Serv1"; 
 	}
+	// commentino cretino
 }
 ?>
